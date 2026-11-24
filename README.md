@@ -37,14 +37,7 @@ This repository contains the complete 3D design, engineering drawings, and techn
 
 ---
 
-## 🛠️ Software Used
 
-- **SOLIDWORKS** (Primary CAD Platform)
-
----
-
-
-> 💡 **Note:** Large video files (e.g., assembly animations) are not included in this repository due to GitHub's 100MB file size limit. Please refer to the project report for visual references or contact the author for media files.
 
 ---
 
